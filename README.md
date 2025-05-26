@@ -5,3 +5,5 @@
 -->
 ### About Me
 Passionate about building resilient systems and leveraging machine learning to detect threats faster. I specialise in network security, automating defenses, and researching adversarial AI to stay ahead of attackers. 
+
+[![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=git-yansi)]
